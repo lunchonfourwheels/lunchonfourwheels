@@ -1,0 +1,2 @@
+module TruckTagsHelper
+end

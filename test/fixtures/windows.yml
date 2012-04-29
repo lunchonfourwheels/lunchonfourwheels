@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  day_of_week: MyString
+  time_block: MyString
+  date: 2012-04-28
+
+two:
+  day_of_week: MyString
+  time_block: MyString
+  date: 2012-04-28

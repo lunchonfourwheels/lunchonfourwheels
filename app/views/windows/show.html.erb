@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Day of week:</b>
+  <%= @window.day_of_week %>
+</p>
+
+<p>
+  <b>Time block:</b>
+  <%= @window.time_block %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%= @window.date %>
+</p>
+
+
+<%= link_to 'Edit', edit_window_path(@window) %> |
+<%= link_to 'Back', windows_path %>
